@@ -26,6 +26,7 @@ body{
 }
 .nav-menu {
     list-style: none;
+    color: var(--logo-black);
 }
 .nav-menu .headers:hover,
 .nav-menu .headers:focus,
@@ -137,7 +138,7 @@ body{
     line-height: 1.71;
 }
 
-    /*portafolio*/
+    /*-------------------------------- 2 portafolio*/
 
 .portafolio-list{
     list-style: none;
@@ -153,6 +154,7 @@ body{
     font-weight: 500;
     font-size: 16px;
     color: var(--primary-black-color);
+    font-family: 'Roboto';
 }
 .portafolio-card{
     list-style: none;
